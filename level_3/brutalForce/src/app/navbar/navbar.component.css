@@ -1,0 +1,50 @@
+
+header{
+    background-color: #5e77b2;
+    width: 100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    border-radius: 20rem;
+    width: 5%;
+}
+
+.df{
+    display: flex;
+}
+.alig-center{
+  align-items: center;
+}
+
+.space-between{
+  justify-content: space-between;
+}
+
+.symbol{
+    width: 10%;
+}
+
+
+
+.header-p {
+    margin: 0 1rem;
+    color: white;
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+
+
+
+header img{
+    margin: 0 1rem;
+}
+
+.symbol{
+    width: 15%;
+}
